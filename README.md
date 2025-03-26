@@ -2,7 +2,8 @@
 
 This is a fork of https://github.com/alexcesaro/quotedprintable. But the
 project is not maintained it anymore. I maintain it for
-https://github.com/muquit/gomail fork.
+https://github.com/muquit/gomail fork which is used in my 
+https://github.com/muquit/mailsend-go program.
 
 https://muquit.com/
 
